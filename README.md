@@ -1,8 +1,9 @@
 # An Dog Expansion Pack for The FREE FLIR Thermal Dataset for Algorithm Training
 The **FREE FLIR Thermal Dataset for Algorithm Training** can be found [here](https://www.flir.ca/oem/adas/adas-dataset-form/) with detailed description.
 
-FLIR's dataset includes 240 labeled frames of **Dog**. Training an algorithm only by this dataset usually yields poor AP on classifying dogs.
+FLIR's dataset includes 240 labeled frames of **Dog**. Training an algorithm only by this dataset usually yields poor AP on classifying dogs.<br />
 The following is the result of training a YOU-ONLY-LOOK-ONCE(YOLOv4) network using FLIR's dataset.
+![yolo result](./3.jpg?raw=true "Optional Title")
 
 
 This expansion pack is prepared specifically for training a YOU-ONLY-LOOK-ONCE(YOLO) network. All frames are labeled in the YOLO format.
