@@ -1,2 +1,2 @@
-# FLIR_IR_Expansion
-This is an expansion to the FLIR's official thermal imaging dataset
+# An Expansion Pack for The FREE FLIR Thermal Dataset for Algorithm Training
+The original **FREE FLIR Thermal Dataset for Algorithm Training** can be found [here](https://www.flir.ca/oem/adas/adas-dataset-form/).
