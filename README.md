@@ -10,7 +10,7 @@ FLIR's dataset includes 240 labeled frames of **Dog**. Training an algorithm onl
 The following is the result of training a YOU-ONLY-LOOK-ONCE(YOLOv4) network using FLIR's dataset.
 ![yolo result](./3.JPG?raw=true)
 
-At IoU=0.5, AP for **Dog** is 0.00%
+At IoU=0.5, AP for **Dog** is 0.00%.
 
 
 
