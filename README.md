@@ -20,7 +20,7 @@ mAP@IoU=50 for **Dog** is 0.00%.<br />
 mAP@IoU=75 for **Dog** is 0.00%.<br />
 ![yolo result](./4.JPG?raw=true)
 
-The Bounding boxes generated are
+The bounding boxes generated are
 ![yolo box](./2.jpg)
 ![yolo box](./1.jpg)
 
