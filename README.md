@@ -13,9 +13,11 @@ A detailed description of the YOLO format can be found [here](https://github.com
 
 FLIR's dataset includes 240 **Dog** bounding boxes. Training an algorithm only by this dataset usually yields poor AP on the dog class.<br />
 The following is the result of training a YOU-ONLY-LOOK-ONCE(YOLOv4) network using FLIR's dataset.
+mAP@IoU=50 for **Dog** is 0.00%.<br />
 ![yolo result](./3.JPG?raw=true)
 
-At IoU=0.5, AP for **Dog** is 0.00%.<br />
+mAP@IoU=75 for **Dog** is 0.00%.<br />
+
 The Bounding boxes generated are
 ![yolo box](./2.jpg?raw=true)
 ![yolo box](./1.jpg?raw=true)
