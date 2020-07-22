@@ -21,8 +21,8 @@ mAP@IoU=75 for **Dog** is 0.00%.<br />
 ![yolo result](./4.JPG?raw=true)
 
 The Bounding boxes generated are
-![yolo box](./2.jpg?raw=true)
-![yolo box](./1.jpg?raw=true)
+![yolo box](./2.jpg?raw=true){:height="50%" width="50%"}
+![yolo box](./1.jpg?raw=true){:height="50%" width="50%"}
 
 The dogs are either missed or misclassified.
 
