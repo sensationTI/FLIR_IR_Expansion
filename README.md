@@ -20,7 +20,7 @@ The Bounding boxes generated are
 ![yolo box](./2.jpg?raw=true)
 ![yolo box](./1.jpg?raw=true)
 
-Dogs are either misclassified or completely missed.
+The dogs are either missed or misclassified.
 
 
 
