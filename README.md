@@ -1,4 +1,4 @@
-# An Dog Expansion Pack for The FREE FLIR Thermal Dataset for Algorithm Training
+# An Dog Expansion Pack for The FREE FLIR Thermal Dataset
 This expansion pack is prepared specifically for training a YOU-ONLY-LOOK-ONCE(YOLO) network. All frames are labeled in the YOLO format.
 If you want to use this expansion pack for other training, images are still available for download but requires manual labeling.
 
