@@ -31,6 +31,6 @@ The dogs are either missed or misclassified.
 **The Highlights of This Expansion Pack**<br />
 * Added in 3,054 more **DOG** frames captured by a **FLIR A65 IR Temperature Sensor**.
 * All frames are in `.jpeg` format making it consistent with the original FLIR dataset.
-* This expansion pack started with **FLIR_08863.jpeg**. As the original FLIR dataset ended with **FLIR_08862.jpeg**, you can directly copy and paste all the frames in this expansion pack to the directory where you store all the original FLIR frames.
-* All frames are 24-bit.
+* The frames in this expansion pack started with the name`FLIR_08863.jpeg`. As the original FLIR dataset ended with `FLIR_08862.jpeg`, you can directly copy and paste all the frames in this expansion pack to the FLIR directory.
+* All frames are 24-bit color images.
 
