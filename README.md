@@ -11,7 +11,7 @@ The YOLO format has the shape of <br />
 
 A detailed description of the YOLO format can be found [here](https://github.com/AlexeyAB/Yolo_mark/issues/60).
 
-FLIR's dataset includes 240 labeled frames of **Dog**. Training an algorithm only by this dataset usually yields poor AP on the dog class.<br />
+FLIR's dataset includes 240 bounding boxes of **Dog**. Training an algorithm only by this dataset usually yields poor AP on the dog class.<br />
 The following is the result of training a YOU-ONLY-LOOK-ONCE(YOLOv4) network using FLIR's dataset.
 ![yolo result](./3.JPG?raw=true)
 
