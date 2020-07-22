@@ -26,5 +26,5 @@ The dogs are either missed or misclassified.
 
 **Highlights of This Expansion Pack**<br />
 * Added in 3,054 more **DOG** frames captured by a **FLIR A65 IR Temperature Sensor**.
-All frames are 24-bit of dimension **875*700**.
+* All frames are 24-bit of dimension **875*700**.
 
