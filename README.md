@@ -29,9 +29,9 @@ The dogs are either missed or misclassified.
 
 
 **The Highlights of This Expansion Pack**<br />
-* Added 3,054 more annotated **DOG** frames captured by a **FLIR A65 IR Temperature Sensor**.
+* Added 3,054 more annotated **Dog** frames captured by a **FLIR A65 IR Temperature Sensor**.
 * All frames are of **640*512** and in `.jpeg` format making it consistent with the original FLIR dataset.
-* The annotations are in the YOLO format.
+* The annotations are in the YOLO format having **3-Dog** as object class.
 * The frames in this expansion pack started with the name`FLIR_08863.jpeg`. As the original FLIR dataset ended with `FLIR_08862.jpeg`, you can directly copy and paste all the frames in this expansion pack to the FLIR directory.
 * All frames are 24-bit color images.
 
