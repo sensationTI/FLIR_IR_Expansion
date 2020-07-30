@@ -30,8 +30,11 @@ The dogs are either missed or misclassified.
 An example of the images in this expansion pack<br />
 ![image_example](./misc/FLIR_08863.jpeg?raw=true)
 
-An example of the annotation<br />
+An example of the bounding box<br />
 ![image_example_ann](./misc/FLIR_08863_ann.jpeg?raw=true)
+
+An example of the annotation <br />
+**3 0.476953 0.543750 0.077344 0.170833**
 
 
 **The Highlights of This Expansion Pack**<br />
