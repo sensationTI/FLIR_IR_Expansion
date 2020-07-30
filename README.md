@@ -27,7 +27,7 @@ The generated bounding boxes are
 **The dogs are either missed or misclassified.**
 
 
-##Some Highlights of This Expansion Pack
+## Some Highlights of This Expansion Pack
 An example of the images in this expansion pack<br />
 ![image_example](./misc/FLIR_08863.jpeg?raw=true)
 
