@@ -27,6 +27,7 @@ The generated bounding boxes are
 **The dogs are either missed or misclassified.**
 
 
+**Some Highlights of This Expansion Pack**<br />
 An example of the images in this expansion pack<br />
 ![image_example](./misc/FLIR_08863.jpeg?raw=true)
 
@@ -35,9 +36,6 @@ An example of the bounding box<br />
 
 An example of the annotation <br />
 **3 0.476953 0.543750 0.077344 0.170833**
-
-
-**Some Highlights of This Expansion Pack**<br />
 * Added 3,054 more annotated **Dog** frames captured by a **FLIR A65 IR Temperature Sensor**.
 * Including long-fur and short-fur dogs with unique heat signature.
 * All frames are of **640*512** and in `.jpeg` format making it consistent with the original FLIR dataset.
