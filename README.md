@@ -15,14 +15,14 @@ FLIR's dataset includes 240 **Dog** bounding boxes. Training a learning algorith
 The following are the results from training a YOU-ONLY-LOOK-ONCE(YOLOv4) network using FLIR's dataset.
 
 mAP@IoU=50 for **Dog** is 0.00%.<br />
-![yolo result](./3.JPG?raw=true)
+![yolo result](./misc/3.JPG?raw=true)
 
 mAP@IoU=75 for **Dog** is 0.00%.<br />
-![yolo result](./4.JPG?raw=true)
+![yolo result](./misc/4.JPG?raw=true)
 
 The generated bounding boxes are
-![yolo box](./2.jpg)
-![yolo box](./1.jpg)
+![yolo box](./misc/2.jpg)
+![yolo box](./misc/1.jpg)
 
 The dogs are either missed or misclassified.
 
