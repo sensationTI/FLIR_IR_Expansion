@@ -25,11 +25,11 @@ The generated bounding boxes are
 ![yolo box](./misc/1.jpg)
 
 The dogs are either missed or misclassified.
-
+<br />
 An example of the images in this expansion pack
 ![image_example](./misc/FLIR_08863.jpeg?raw=true)
 An example of the annotation
-![image_example](./misc/FLIR_08863.ann?raw=true)
+![image_example](./misc/FLIR_08863_ann.jpeg?raw=true)
 
 **The Highlights of This Expansion Pack**<br />
 * Added 3,054 more annotated **Dog** frames captured by a **FLIR A65 IR Temperature Sensor**.
