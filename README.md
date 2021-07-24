@@ -31,7 +31,7 @@ The generated bounding boxes are
 An example of the images in this expansion pack<br />
 ![image_example](./misc/FLIR_08863.jpeg?raw=true)
 
-An example of the bounding box<br />
+An example of the new added dog bounding box (For demonstration purposes, box for other classes are not shown in the image, but they will appear in the annotation)<br />
 ![image_example_ann](./misc/FLIR_08863_ann.jpeg?raw=true)
 
 An example of the annotation <br />
