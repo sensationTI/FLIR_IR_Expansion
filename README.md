@@ -42,3 +42,4 @@ An example of the annotation <br />
 * All frames are of **640*512** and in `.jpeg` format making it consistent with the original FLIR dataset.
 * All frames are 24-bit color images.
 
+Images are taken from a recording session, so similar frames do exist. Omit them at your own demand.
