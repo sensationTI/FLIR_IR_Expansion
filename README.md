@@ -43,3 +43,6 @@ An example of the annotation <br />
 * All frames are 24-bit color images.
 
 Images are taken from a recording session, so similar frames do exist. Omit them at your own demand.
+
+
+# Update 2022/Feb/22 New driving data and annotation have been added!
