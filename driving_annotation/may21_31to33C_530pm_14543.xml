@@ -1,0 +1,26 @@
+<annotation>
+	<folder>500</folder>
+	<filename>may21_31to33C_530pm_14543.png</filename>
+	<path>F:\桌面\500\may21_31to33C_530pm_14543.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>154</ymin>
+			<xmax>364</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
