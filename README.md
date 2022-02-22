@@ -1,7 +1,8 @@
 # Feb/2022 Update: New driving data and annotation have been added!
 
-* Added 1708 frames of clearly labeled images that covered both local and highway driving scenarios.
-* Labeling format in PASCAL VOC.
+* Added 1708 frames of clearly labeled thermal images. (under driving_data)
+* Labeling format in PASCAL VOC. (under driving_annotation)
+* Covered a highway and a local driving scenario.
 * Covered four object classes including vehicles, pedestrians, small animals(dogs), and bicycles.
 
 
