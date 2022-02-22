@@ -1,3 +1,11 @@
+# Feb/2022 Update: New driving data and annotation have been added!
+
+* Added 1708 frames of clearly labeled images that covered both local and highway driving scenarios.
+* Labeling format in PASCAL VOC.
+* Covered four object classes including vehicles, pedestrians, small animals(dogs), and bicycles.
+
+
+
 # An Dog Expansion Pack for The FREE FLIR Thermal Dataset
 This expansion pack is prepared specifically for training a YOU-ONLY-LOOK-ONCE(YOLO) network. All frames are labeled in the YOLO format.
 If you want to use this expansion pack for other purposes, images are still available for download but requires manual labeling.
@@ -45,4 +53,4 @@ An example of the annotation <br />
 Images are taken from a recording session, so similar frames do exist. Omit them at your own demand.
 
 
-# Update 2022/Feb/22 New driving data and annotation have been added!
+
